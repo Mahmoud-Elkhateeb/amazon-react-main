@@ -10,16 +10,16 @@ function Home() {
       <section className="HomeSec1">
         <Swiper className="mySwiper">
           <SwiperSlide>
-            <img src="images/711Y9Al9RNL._SX3000_.jpg" alt="" />
+            <img src="/images/711Y9Al9RNL._SX3000_.jpg" alt="" />
           </SwiperSlide>
           <SwiperSlide>
-            <img src="images/71qid7QFWJL._SX3000_.jpg" alt="" />
+            <img src="/images/71qid7QFWJL._SX3000_.jpg" alt="" />
           </SwiperSlide>
           <SwiperSlide>
-            <img src="images/61jovjd+f9L._SX3000_.jpg" alt="" />
+            <img src="/images/61jovjd+f9L._SX3000_.jpg" alt="" />
           </SwiperSlide>
           <SwiperSlide>
-            <img src="images/61DUO0NqyyL._SX3000_.jpg" alt="" />
+            <img src="/images/61DUO0NqyyL._SX3000_.jpg" alt="" />
           </SwiperSlide>
         </Swiper>
         <Container fluid className="firstcat">
